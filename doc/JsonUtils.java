@@ -21,11 +21,6 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 
-/**
- * json操作工具
- * @author 李文龙
- *
- */
 public class JsonUtils {
 
 	private static ObjectMapper objectMapper = new ObjectMapper();
